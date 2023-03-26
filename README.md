@@ -2,7 +2,7 @@
 
 # 🌼 Welcome 🌼
 
-![header](https://capsule-render.vercel.app/api?type=Cylinder&color=778777&height=300&section=header&text=yejinGit&fontSize=90&fontColor=4f5c4f)
+![header](https://capsule-render.vercel.app/api?type=Cylinder&color=778777&height=300&section=header&text=YejinGit&fontSize=90&fontColor=4f5c4f)
 
 ✨Hello, I am a student developer attending Mirim Meister High School.😎<br/>
   
